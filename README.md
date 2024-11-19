@@ -22,7 +22,7 @@ The first step is to clone the repository from GitHub.
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone https://github.com/fcsapi/stock-api-python.git
 cd FCS_Stock
 ```
 
